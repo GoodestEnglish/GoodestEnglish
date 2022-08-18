@@ -7,8 +7,8 @@
 #### 關於我:
 
 - 男👦
-- 19歲🐴
-- 喜歡製作遊戲類影片, 9000訂閱實況主🔴 [點我查看](https://youtube.com/c/goodestenglishpvp)
+- 20歲🐴
+- 喜歡製作遊戲類影片, 11000訂閱實況主🔴 [點我查看](https://youtube.com/c/goodestenglishpvp)
 - 喜歡編寫麥塊遊戲類插件, 多數插件為私人, 版本為 1.8
   * [GoodestPractice](https://github.com/RealGoodestEnglish/GoodestPractice) - 戰鬥練習
   * [GoodestBedwars](https://github.com/RealGoodestEnglish/GoodestBedwars) - 起床戰爭 [點我查看示範影片/下載](https://youtu.be/9JFr9ZhGV-g)
