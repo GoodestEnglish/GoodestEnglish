@@ -8,7 +8,7 @@
 
 - 男👦
 - 20歲🐴
-- 喜歡製作遊戲類影片, 11000訂閱實況主🔴 [點我查看](https://youtube.com/c/goodestenglishpvp)
+- 喜歡製作遊戲類影片, 13000訂閱實況主🔴 [點我查看](https://youtube.com/c/goodestenglishpvp)
 - 喜歡編寫麥塊遊戲類插件, 多數插件為私人, 版本為 1.8
   * [Eden](https://github.com/RealGoodestEnglish/Eden) - 麥塊 1.8 PvP 開源戰鬥練習插件
   * [GoodestPractice](https://github.com/RealGoodestEnglish/GoodestPractice) - 戰鬥練習
