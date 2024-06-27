@@ -7,14 +7,13 @@
 #### 關於我:
 
 - 男👦
-- 20歲🐴
-- 喜歡製作遊戲類影片, 13000訂閱實況主🔴 [點我查看](https://youtube.com/c/goodestenglishpvp)
-- 喜歡編寫麥塊遊戲類插件, 多數插件為私人, 版本為 1.8
-  * [Eden](https://github.com/RealGoodestEnglish/Eden) - 麥塊 1.8 PvP 開源戰鬥練習插件
-  * [GoodestPractice](https://github.com/RealGoodestEnglish/GoodestPractice) - 戰鬥練習
-  * [GoodestBedwars](https://github.com/RealGoodestEnglish/GoodestBedwars) - 起床戰爭 [點我查看示範影片/下載](https://youtu.be/9JFr9ZhGV-g)
-  * [GoodestUHC](https://github.com/RealGoodestEnglish/ShitUHC) - 超極限生存
-  * [GoodestSkywars](https://github.com/RealGoodestEnglish/GoodestSkywars) - 空島戰爭
+- 22歲🐴
+- 喜歡製作遊戲類影片, 14000訂閱實況主🔴 [點我查看](https://youtube.com/c/goodestenglishpvp)
+- 喜歡編寫Minecraft遊戲類插件
+  * ⭐[Eden](https://github.com/RealGoodestEnglish/Eden) - 麥塊 1.8 PvP 開源戰鬥練習插件
+  * [GoodestDisguise](https://github.com/GoodestEnglish/GoodestDisguise) - 偽裝插件, 把遊戲中的你變成另一人!
+  * [SandDropper](https://github.com/GoodestEnglish/SandDropper) - 沙畫插件, 用來做出類似tiktok沙畫的影片
+  * [WibnMSG](https://github.com/GoodestEnglish/WibnMSG) - 一個簡單的私訊插件
   * ...還有更多❗
  
  #### 社交媒體:
